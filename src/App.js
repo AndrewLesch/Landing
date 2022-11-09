@@ -16,6 +16,14 @@ function App() {
         </nav>
         <button className='header-button'>Записаться на сеанс</button>
       </header>
+      <div className='content-wrapper'>
+        <div className='title-container'>
+          <img src='../left-icon.svg' className='left-icon'></img>
+          <h3 className='content-wrapper-minititle'>Укрепление здоровья</h3>
+          <img src='../right-icon.svg' className='rigth-icon'></img>
+        </div>
+        <h2 className='content-wrapper--title'>Акватерапия<br></br>RitmStyle</h2>
+      </div>
     </div>
   );
 }
