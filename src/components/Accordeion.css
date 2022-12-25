@@ -1,0 +1,92 @@
+.title {
+  /* H5 */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #000000;
+}
+
+.text {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+
+  /* Text 2 */
+
+  color: #3B3B3B;
+  width: 350px;
+  margin-bottom: 25px;
+}
+
+.div2 {
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 55px;
+}
+
+.div4 {
+  margin-left: 20px;
+  width: 300px;
+}
+
+.show-but {
+  font-size: 30px;
+  background: none;
+  border: none;
+}
+
+.opened {
+  transform: rotate(-45deg);
+}
+
+.more-but {
+  background: #6FC2D7;
+/* Butt 1 */
+
+border: 0.5px solid #6FC2D7;
+box-shadow: 0px 0px 6px rgba(111, 194, 215, 0.7);
+border-radius: 10px;
+width: 119px;
+height: 32px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+.children{
+  width: 350px;
+  margin-left: 25px;
+}
+
+.mor-but {
+  margin-left: 20px;
+  background: #1D3BD8;
+box-shadow: 0px 0px 6px rgba(29, 59, 216, 0.7);
+border-radius: 10px;
+/* H6 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+width: 70px;
+height: 32px;
+border: none;
+
+color: #FFFFFF;}
